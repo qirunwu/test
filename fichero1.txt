@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hola que tal estas
+=======
+hola que tal
+hoy
+es
+viernes
+>>>>>>> 80ee59f406d52bf8f0913ca9fb300e9473fd9575
